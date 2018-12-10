@@ -1,0 +1,22 @@
+{
+  "name": "5e-database",
+  "version": "1.0.0",
+  "description": "Data files for 5e srd",
+  "main": "dynamoManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrpadua/5e-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrpadua/5e-database/issues"
+  },
+  "homepage": "https://github.com/adrpadua/5e-database#readme",
+  "dependencies": {
+    "aws-sdk": "^2.372.0"
+  }
+}
